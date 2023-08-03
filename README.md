@@ -5,7 +5,7 @@ Key Features:
 
 Text Extraction: With the power of pytesseract, the app extracts textual content from document images in various formats, such as scanned pages, photographs, or PDFs.
 
-Table Identification: The app leverages the state-of-the-art Microsoft's table transformr model to identify tables within the document images.
+Table Identification: The app leverages the state-of-the-art Microsoft table transformr model to identify tables within the document images.
 
 Layout Analysis: With the use of easyocr library, this app identifies the layout of different textual or tabular content in the document.
 
