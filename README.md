@@ -12,3 +12,5 @@ Layout Analysis: With the use of easyocr library, this app identifies the layout
 Multi-language Support: By integrating easyocr, the app extends its capabilities to support multiple languages, enabling seamless text extraction from documents in various linguistic contexts.
 
 Streamlit-Powered Interface: The app offers an intuitive and user-friendly interface built with Streamlit, a popular Python library for creating interactive web applications. Users can easily navigate through the app, upload documents, view extracted text, and visualize identified tables with ease.
+
+SCREENSHOTS OF APPLICATION WORKING ON INVOICES & TABULAR DATA IS UPLOADED IN THIS REPO
